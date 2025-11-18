@@ -1,7 +1,6 @@
 # Assignment 4
 
 Class: CS 4372.501 - Computational Methods for Data Science
-For this submission, we both have used 2 extension days past the original deadline.
 
 Professor: Anurag Nagar
 
@@ -11,6 +10,18 @@ Teammates:
 
 # Instructions to Run/Grade
 1. To run the models, you will need to install the following python libraries into your kernel via "pip install ___"
+  - numpy
+
+  - ipywidgets
+  - faiss
+  - accelerate
+  - hf_xet
+  - transformers 
+  - sentence-transformers 
+  - faiss-cpu
+  - rich
+
+
   - numpy
   - matplotlib
   - pandas
