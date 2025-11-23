@@ -12,10 +12,13 @@ Teammates:
 1. To run the models, you will need to install the following python libraries into your kernel via "pip install ___"
   - numpy
   - transformers
-  - ipywidgetsS
+  - ipywidgets
+  - accelerate
+  - gdown
   - datasets
   - faiss-cpu
   - sentence-transformers
   - huggingface_hub
+  - rouge_score
 
 
